@@ -1,4 +1,4 @@
-package java8.leccion5.defaultMethods;
+package java8.leccion05.defaultMethods;
 
 /**
  * @author Jorge Luis Pérez Canto

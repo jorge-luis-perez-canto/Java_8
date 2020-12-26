@@ -1,4 +1,4 @@
-package java8.leccion9.Stream;
+package java8.leccion09.Stream;
 
 import java.util.ArrayList;
 import java.util.List;

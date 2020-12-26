@@ -1,4 +1,4 @@
-package java8.leccion7.referenciasDeMetodos;
+package java8.leccion07.referenciasDeMetodos;
 
 /**
  * @author Jorge Luis Pérez Canto

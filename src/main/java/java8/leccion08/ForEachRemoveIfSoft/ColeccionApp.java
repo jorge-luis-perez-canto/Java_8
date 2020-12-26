@@ -1,4 +1,4 @@
-package java8.leccion8.ForEachRemoveIfSoft;
+package java8.leccion08.ForEachRemoveIfSoft;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package java8.leccion1_2_3.sintaxisLambda;
+package java8.leccion01_02_03.sintaxisLambda;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package java8.leccion4.scopes;
+package java8.leccion04.scopes;
 
 /**
  * @author Jorge Luis Pérez Canto

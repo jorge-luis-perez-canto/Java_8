@@ -1,4 +1,4 @@
-package java8.leccion7.referenciasDeMetodos;
+package java8.leccion06.interfacesFuncionales;
 
 /**
  * @author Jorge Luis Pérez Canto
@@ -6,5 +6,5 @@ package java8.leccion7.referenciasDeMetodos;
 
 @FunctionalInterface
 public interface Operacion {
-    void saludar();
+    double calcular(double n1, double n2);
 }

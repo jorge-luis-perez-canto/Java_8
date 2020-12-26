@@ -1,4 +1,4 @@
-package java8.leccion6.interfacesFuncionales;
+package java8.leccion06.interfacesFuncionales;
 
 /**
  * @author Jorge Luis Pérez Canto
